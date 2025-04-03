@@ -108,7 +108,7 @@ header .side-links:hover + ul{
     padding: 150px 0;
 }
 header .side-links:hover::after{
-    content: url(/assets/images/icon-menu-close.svg);
+    content: url(assets/images/icon-menu-close.svg);
     top: 0;
     left: 0;
     position: absolute;
@@ -132,7 +132,7 @@ header .side-links:hover::after{
 }
 
 .grid-box .image{
-    background-image: url(/assets/images/image-web-3-desktop.jpg);
+    background-image: url(assets/images/image-web-3-desktop.jpg);
     background-size: cover;
     height: 250px;
 }
@@ -142,7 +142,7 @@ header .side-links:hover::after{
         width: 100%;
     }
     .grid-box .image{
-        background-image: url(/assets/images/image-web-3-mobile.jpg);
+        background-image: url(assets/images/image-web-3-mobile.jpg);
     }
 }
 
